@@ -4,15 +4,13 @@
 # `ruby day_1/exercises/loops.rb`
 
 # Example: Write code that prints your name five times:
-5.times do
-  p "Hermione Granger"
-end
+name = 'Jeremiah'
+puts name * 5
 
 # Write code that prints the sum of 2 plus 2 seven times:
-7.times do
-  # YOUR CODE HERE
-end
+x = 2 + 2
+puts x, x, x, x, x, x, x
 
 # Write code that prints the phrase 'She sells seashells down by the seashore'
-# ten times:
-# YOUR CODE HERE
+shell = 'She sells seashells down by the seashore'
+puts shell * 10
