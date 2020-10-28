@@ -7,7 +7,7 @@
 # and print each animal:
 animals = ["Zebra", "Giraffe", "Elephant"]
 animals.each do |animals|
-  puts animals.first
+  puts animals
 end
 
 # Write code that iterates through a list of animals and prints
